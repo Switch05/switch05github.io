@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+#card {
+	background-color: #A8D2EC;
+	margin: auto;
+	padding: 10px;
+	height: 460px;
+	width: 300px;
+	border-radius: 15px;
+}
+#pic {
+	background-color: #978BEC;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	background-image: url(file:///G|/%E5%BB%A3%E4%B8%89%E5%B9%B3%E6%AE%B5%E8%80%8325/25%E9%99%B3%E7%91%A9%E8%8A%B3/head2.png);
+	background-size: contain;
+	background-position: center 0%;
+	background-repeat: no-repeat;
+	border-radius: 100px;
+}
+h1 {
+	color: #282424;
+}
+h3 {
+	color: #121111;
+}
+ul li {
+	color: #EDC1C1;
+}
+
+
+
+#word {
+	width: 60%;
+}
+#word {
+	margin: auto;
+	width: 60%;
+}
